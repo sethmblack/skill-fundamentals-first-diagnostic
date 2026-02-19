@@ -3,8 +3,9 @@ name: fundamentals-first-diagnostic
 description: Identify which fundamental skill or practice has been neglected when performance problems emerge, and create a structured remediation plan using John Wooden's teaching methodology.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4068
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fundamentals-first-diagnostic
 - transformation
